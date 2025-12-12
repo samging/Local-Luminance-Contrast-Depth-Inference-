@@ -1,2 +1,2 @@
 # Local-Luminance-Contrast-Depth-Inference
-![Preview](demo.png)
+![Preview](udpate1.png)
